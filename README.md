@@ -1,6 +1,6 @@
 [![GraalVM](.github/assets/logo_320x64.svg)][website]
 
-[![GraalVM downloads][badge-dl]][downloads] [![GraalVM docs][badge-docs]][docs] [![GraalVM on Slack][badge-slack]][slack] [![GraalVM on Twitter][badge-twitter]][twitter] [![GraalVM on YouTube][badge-yt]][youtube]  [![GraalVM Gate][badge-gate]][gate] [![License][badge-license]](#license)
+[![GraalVM downloads][badge-dl]][downloads] [![GraalVM docs][badge-docs]][docs] [![GraalVM on Slack][badge-slack]][slack] [![GraalVM on Twitter][badge-twitter]][twitter] [![GraalVM on YouTube][badge-yt]][youtube]  [![GraalVM Gate][badge-gate]][gate] [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/be51e6e671f94bc3814b2700f964ddf0)](https://www.codacy.com/gh/naoufal450/graaltest/dashboard?utm_source=github.com&utm_medium=referral&utm_content=naoufal450/graaltest&utm_campaign=Badge_Coverage) [![License][badge-license]](#license)
 
 GraalVM is a high-performance JDK distribution designed to accelerate the execution of applications written in Java and other JVM languages along with support for JavaScript, Ruby, Python, and a number of other popular languages.
 
